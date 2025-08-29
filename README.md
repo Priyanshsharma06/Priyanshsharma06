@@ -24,8 +24,8 @@ I’m passionate about analyzing data, creating dashboards, and telling stories 
 
 ## 🚀 Projects  
 - [**Adventure Works Project**](https://github.com/username/sales-dashboard) – Interactive Power BI dashboard analyzing sales trends  
-- [**Swiggy Project**](https://github.com/username/customer-segmentation) – Python project using clustering for market segmentation  
-- [**Uber Project in Power BI**](https://github.com/username/hr-analytics) – Analyzing employee data for retention insights  
+- [**Swiggy Project**](https://github.com/username/customer-segmentation) – Excel dedicated project make and filtering usful values 
+- [**Uber Project in Power BI**](https://github.com/username/hr-analytics) – Analyzing Company data for retention insights
 
 ---
 
