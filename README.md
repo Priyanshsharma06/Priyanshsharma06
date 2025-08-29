@@ -1,4 +1,4 @@
-# Hi there, I'm Leo 👋  
+# Hi there, I'm Priyansh Sharma 👋  
 **Data Analyst | Turning Data into Insights 📊**
 
 I’m passionate about analyzing data, creating dashboards, and telling stories through data visualization. I love using tools like **Power BI, SQL, and Python** to transform raw data into actionable insights that drive decisions.
